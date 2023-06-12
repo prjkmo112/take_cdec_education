@@ -3,5 +3,5 @@
 ## settings
 ### `.env` 파일
 
-CDEC_MEM_NO=(mem_no)
+CDEC_MEM_NO=(mem_no)<br>
 CDEC_COOKIE=(cookie)
